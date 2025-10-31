@@ -83,7 +83,7 @@ export class VacuumCardEditor extends LitElement implements LovelaceCardEditor {
           ...shortcuts[index],
           [field]: JSON.parse(value),
         };
-      } catch (e) {
+      } catch {
         return;
       }
     } else {
