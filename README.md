@@ -57,7 +57,7 @@ This card can be configured using Lovelace UI editor.
 5. Choose `entity`.
 6. Now you should see the preview of the card!
 
-_Sorry, no support for `actions` and `stats` in visual config yet._
+You can now configure `actions` and `stats` directly in the visual editor!
 
 Typical example of using this card in YAML config would look like this:
 

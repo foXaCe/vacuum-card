@@ -43,6 +43,25 @@
     "show_toolbar": "Show Toolbar",
     "show_toolbar_aria_label_on": "Toggle display toolbar on",
     "show_toolbar_aria_label_off": "Toggle display toolbar off",
-    "code_only_note": "Note: Setting actions and stats options are available exclusively using Code Editor."
+    "actions": "Custom Actions",
+    "actions_add": "Add Action",
+    "actions_name": "Action Name",
+    "actions_service": "Service",
+    "actions_icon": "Icon",
+    "actions_service_data": "Service Data (JSON)",
+    "actions_delete": "Delete",
+    "stats": "Custom Statistics",
+    "stats_add": "Add Statistic",
+    "stats_state": "State",
+    "stats_attribute": "Attribute",
+    "stats_unit": "Unit",
+    "stats_subtitle": "Subtitle",
+    "stats_delete": "Delete",
+    "stats_default": "Default",
+    "stats_cleaning": "Cleaning",
+    "stats_paused": "Paused",
+    "stats_returning": "Returning",
+    "stats_charging": "Charging",
+    "stats_error": "Error"
   }
 }
