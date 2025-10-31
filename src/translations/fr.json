@@ -13,13 +13,13 @@
     "returning": "Retour à la base",
     "docked": "A la base",
     "unknown": "Inconnu",
-    "offline": "Déconnecté"
+    "offline": "Déconnecté",
     "error": "Erreur",
     "charger_disconnected": "Chargeur déconnecté",
     "remote_control_active": "Télécommande active",
     "manual_mode": "Mode Manuel",
     "shutting_down": "Arrêt",
-    "updating": "Mise à joru",
+    "updating": "Mise à jour",
     "going_to_target": "Déplacement vers la cible",
     "zoned_cleaning": "Nettoyage des zones",
     "segment_cleaning": "Nettoyage des segments"
@@ -42,14 +42,14 @@
     "off": "Off"
   },
   "common": {
-    "name": "Vacuum Carte",
-    "description": "Vacuum carte vous permet de contrôler votre robot aspirateur.",
+    "name": "Vacuum Card",
+    "description": "Vacuum Card vous permet de contrôler votre robot aspirateur.",
     "start": "Nettoyer",
     "continue": "Continuer",
     "pause": "Pause",
     "stop": "Stop",
-    "return_to_base": "Retour base",
-    "locate": "Localiser aspirateur",
+    "return_to_base": "Retour à la base",
+    "locate": "Localiser l'aspirateur",
     "not_available": "L'aspirateur n'est pas disponible"
   },
   "error": {
@@ -75,6 +75,29 @@
     "show_toolbar": "Afficher la barre d'outils",
     "show_toolbar_aria_label_on": "Activer l'affichage de la barre d'outils",
     "show_toolbar_aria_label_off": "Désactiver l'affichage de la barre d'outils",
-    "code_only_note": "Remarque: Les options de réglage des actions et statistiques sont disponibles exclusivement en utilisant l'éditeur de code."
+    "shortcuts": "Raccourcis personnalisés",
+    "shortcuts_add": "Ajouter un raccourci",
+    "shortcuts_name": "Nom",
+    "shortcuts_icon": "Icône",
+    "shortcuts_service": "Service",
+    "shortcuts_service_data": "Données du service (JSON)",
+    "shortcuts_delete": "Supprimer",
+    "stats": "Statistiques personnalisées",
+    "stats_add": "Ajouter une statistique",
+    "stats_state": "État",
+    "stats_entity_id": "ID d'entité",
+    "stats_attribute": "Attribut",
+    "stats_value_template": "Template de valeur",
+    "stats_unit": "Unité",
+    "stats_subtitle": "Sous-titre",
+    "stats_delete": "Supprimer",
+    "stats_default": "Par défaut",
+    "stats_cleaning": "Nettoyage",
+    "stats_paused": "En pause",
+    "stats_returning": "Retour",
+    "stats_charging": "En charge",
+    "stats_docked": "À la base",
+    "stats_idle": "Inactif",
+    "stats_error": "Erreur"
   }
 }

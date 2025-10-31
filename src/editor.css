@@ -17,3 +17,60 @@
 .option paper-input {
   width: 100%;
 }
+
+.section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.section-header strong {
+  font-size: 16px;
+  color: var(--primary-text-color);
+}
+
+.section-header mwc-button {
+  --mdc-theme-primary: var(--primary-color);
+}
+
+.section-header ha-select {
+  width: 200px;
+  margin-left: 10px;
+}
+
+.shortcut-item,
+.stat-item {
+  border: 1px solid var(--divider-color);
+  border-radius: 4px;
+  padding: 12px;
+  margin-bottom: 12px;
+  background-color: var(--card-background-color);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.shortcut-item paper-input,
+.stat-item paper-input {
+  width: 100%;
+}
+
+.shortcut-item mwc-button,
+.stat-item mwc-button {
+  --mdc-theme-primary: var(--error-color);
+  align-self: flex-start;
+  margin-top: 8px;
+}
+
+.stats-state-group {
+  margin-bottom: 20px;
+}
+
+.stats-state-group h4 {
+  margin: 10px 0;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--primary-text-color);
+}
